@@ -1,0 +1,45 @@
+{
+  "ui": {
+    "languageSwitcher": "Choose Language: "
+  },
+  "content": {
+    "intro": {
+      "title": "Invest in Renewable Energy",
+      "text": "Elements is a crowd investment platform to fund renewable energy systems with global scale.",
+      "button": "Explore"
+    },
+    "problem-statement": {
+      "title": "Stop Climate Change before it’s to late.",
+      "text": "Fossil fuels are the main driver of climate change. Only around 11% of global primary energy came from renewable technologies.",
+      "button": "Get started"
+    },
+    "about": {
+      "title": "Scalable Green Investment Strategy",
+      "text": "Elements provides a global platform to fast and securly fund new renewable energy systems all around the world.",
+      "section": [
+        {
+          "title": "Secure and Transparent",
+          "content": "All transactions are publicly available and immutable stored on an eco friendly Blockchain.",
+          "icon": "notes.svg"
+        },
+        {
+          "title": "Simple application process",
+          "content": "Everyone can participate on projects and have a positive impact on the climate change - today!",
+          "icon": "notes.svg"
+        }
+      ]
+    },
+    "mission": {
+      "title": "Grow your Invest",
+      "text": "The global energy transition to clean power sources is a massive market opportunity. Be part of this market and benefit from saving the planet."
+    },
+    "product": {
+      "title": "Elements empowers",
+      "text": "Simply apply for your renewable energy system, convince the investors and both will profit of the new green energy."
+    },
+    "contact": {
+      "title": "Contact form",
+      "text": "Do you have questions or want to contribute to the project? Just write us a small message - we look forward to your message!"
+    }
+  }
+}

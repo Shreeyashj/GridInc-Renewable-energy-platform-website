@@ -1,0 +1,45 @@
+{
+  "ui": {
+    "languageSwitcher": "Sprache wählen: "
+  },
+  "content": {
+    "intro": {
+      "title": "Investiere in Erneuerbare Energien",
+      "text": "Elements ist eine Crowdinvestment-Plattform zur Finanzierung erneuerbarer Energiesysteme mit globaler Reichweite.",
+      "button": "Erfahre mehr"
+    },
+    "problem-statement": {
+      "title": "Stoppen den Klimawandel, bevor es zu spät ist!",
+      "text": "Fossile Brennstoffe sind der Haupttreiber des Klimawandels. Nur etwa 11 % der globalen Primärenergie stammten aus erneuerbaren Technologien.",
+      "button": "Starte jetzt"
+    },
+    "about": {
+      "title": "Skalierbare grüne Anlagestrategie",
+      "text": "Elements bietet eine globale Plattform zur schnellen und sicheren Finanzierung neuer erneuerbarer Energiesysteme auf der ganzen Welt.",
+      "section": [
+        {
+          "title": "Sicher und transparent",
+          "content": "Alle Transaktionen sind öffentlich verfügbar und unveränderlich auf einer umweltfreundlichen Blockchain gespeichert.",
+          "icon": "notes.svg"
+        },
+        {
+          "title": "Einfacher Bewerbungsprozess",
+          "content": "Jeder kann sich an Projekten beteiligen und einen positiven Einfluss auf den Klimawandel haben – heute!",
+          "icon": "notes.svg"
+        }
+      ]
+    },
+    "mission": {
+      "title": "Grüne Investition in die Zukunft",
+      "text": "Die globale Energiewende hin zu sauberen Energiequellen ist eine enorme Marktchance. Seien Sie Teil dieses Marktes und profitieren Sie von der Rettung des Planeten."
+    },
+    "product": {
+      "title": "Elements empowers",
+      "text": "Bewerben Sie sich einfach für Ihre Erneuerbare-Energien-Anlage, überzeugen Sie die Investoren und beide profitieren von der neuen grünen Energie."
+    },
+    "contact": {
+      "title": "Kontakt Formular",
+      "text": "Sie haben Fragen oder möchten zum Projekt beitragen? Schreiben Sie uns einfach eine kleine Nachricht - wir freuen uns auf Ihre Nachricht!"
+    }
+  }
+}
